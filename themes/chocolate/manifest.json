@@ -1,0 +1,1 @@
+{"description": "A theme based on Chocolate, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Chocolate - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [210, 105, 30],"tab_text": [0.24149999999999436, 0.12074999999999719, 0.03449999999999921]}}}

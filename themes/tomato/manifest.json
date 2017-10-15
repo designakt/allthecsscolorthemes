@@ -1,0 +1,1 @@
+{"description": "A theme based on Tomato, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Tomato - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [255, 99, 71],"tab_text": [11.96159999999999, 1.8202434782608665, 0]}}}

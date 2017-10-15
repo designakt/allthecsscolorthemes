@@ -1,8 +1,8 @@
 {
-  "description": "some",
+  "description": "A theme based on AliceBlue, a color name defined in CSS 3 Extended Color Keywords.",
   "manifest_version": 2,
-  "name": "AliceBlue - CSS Color Theme",
-  "version": "1.0",
+  "name": "AliceBlue - CSS Named Color Theme",
+  "version": "0.1",
   "homepage_url": "https://markusjaritz.com",
   "theme": {
     "images": {

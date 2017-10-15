@@ -1,0 +1,1 @@
+{"description": "A theme based on Lime, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Lime - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [0, 255, 0],"tab_text": [0, 17.74799999999999, 0]}}}

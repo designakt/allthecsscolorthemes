@@ -1,0 +1,1 @@
+{"description": "A theme based on Magenta, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Magenta - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [255, 0, 255],"tab_text": [254.99999999999997, 237.252, 254.99999999999997]}}}

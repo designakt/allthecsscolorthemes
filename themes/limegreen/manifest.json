@@ -1,0 +1,1 @@
+{"description": "A theme based on Limegreen, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Limegreen - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [50, 205, 50],"tab_text": [2.1152941176470543, 8.672705882352927, 2.1152941176470543]}}}

@@ -1,0 +1,1 @@
+{"description": "A theme based on Orange, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Orange - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [255, 165, 0],"tab_text": [36.479999999999976, 23.60470588235292, 0]}}}

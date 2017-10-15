@@ -1,0 +1,1 @@
+{"description": "A theme based on Snow, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Snow - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [255, 250, 250],"tab_text": [99.19600000000001, 0, 0]}}}

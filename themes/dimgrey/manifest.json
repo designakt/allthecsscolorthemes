@@ -1,0 +1,1 @@
+{"description": "A theme based on Dimgrey, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Dimgrey - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [105, 105, 105],"tab_text": [246, 246, 246]}}}

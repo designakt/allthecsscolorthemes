@@ -1,0 +1,20 @@
+{
+  "name": "allthecsscolorthemes",
+  "version": "0.0.1",
+  "description": "Creating a bunch of Firefox-themes based on CSS named colors",
+  "main": "app.js",
+  "dependencies": {
+    "color-parser": "^0.1.0",
+    "css-color-names": "0.0.4",
+    "font-color-contrast": "^1.0.3",
+    "jsonfile": "^4.0.0",
+    "make-dir": "^1.0.0",
+    "write": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Jaritz",
+  "license": "ISC"
+}

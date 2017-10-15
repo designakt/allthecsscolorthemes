@@ -1,0 +1,1 @@
+{"description": "A theme based on Lightgrey, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Lightgrey - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [211, 211, 211],"tab_text": [33.39999999999999, 33.39999999999999, 33.39999999999999]}}}

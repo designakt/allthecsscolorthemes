@@ -1,0 +1,1 @@
+{"description": "A theme based on Whitesmoke, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Whitesmoke - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [245, 245, 245],"tab_text": [47, 47, 47]}}}

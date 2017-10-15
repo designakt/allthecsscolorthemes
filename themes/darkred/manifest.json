@@ -1,0 +1,1 @@
+{"description": "A theme based on Darkred, a color name defined in CSS 3 Extended Color Keywords.","manifest_version": 2,"name": "Darkred - CSS Named Color Theme","version": "0.1","homepage_url": "https://markusjaritz.com","theme": {"images": {"theme_frame": ""},"colors": {"frame": [139, 0, 0],"tab_text": [255, 186.24879999999996, 186.24879999999996]}}}
